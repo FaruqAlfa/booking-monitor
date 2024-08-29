@@ -87,5 +87,5 @@ Aplikasi Web untuk monitoring kendaraan serta bila ingin menggunakan kendaraan, 
 
 ## Physical Data Model & Activity Diagram 
 
-* [Physical Data Model](public/physical-data-model/pdm.md)
+* [Physical Data Model](public/pdm/pdm.jpg)
 * [Activity Diagram](public/activity-diagram/activity-diagram.md)
